@@ -402,3 +402,12 @@ body {
     
 }
 
+.rodape {
+    background-color: 2E3840;
+    width: auto;
+    padding: 24px;
+    text-align: center;
+    font-family: 'Open Sans', 'icones',  sans-serif;
+    font-size: 1.0rem;
+    font-weight: 400;
+}
